@@ -1,0 +1,108 @@
+.container {
+    margin-bottom: 100px;
+}
+
+.nav-item {
+    color: violet;
+}
+
+.ornge-bg {
+    background-color: #cc959c;
+    padding: 10px;
+}
+
+.carousel-item {
+    padding: 100px 50px;
+}
+
+.buy-now {
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    page-break-after: 10px;
+    cursor: pointer;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
+
+.para {
+    color: orange;
+}
+
+.card {
+    border: none;
+    box-shadow: 5px 5px 10px lightgrey;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+}
+
+.card-body {
+    text-align: center;
+}
+
+.btn-nu {
+    margin-top: 35px;
+}
+
+.pale-pg {
+    width: 100%;
+}
+
+.text {
+    text-align: center;
+}
+
+.hori-1 {
+    width: 100px;
+    border: 3px solid orange;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
+
+.boon1 {
+    border: auto;
+    width: 200px;
+    height: 200px;
+    box-shadow: 5px 5px 10px 10px lightgrey;
+}
+
+.column-img {
+    width: 60%;
+}
+
+.end-img {
+    margin-top: 60px;
+}
+
+.my-mar {
+    margin-top: 150px;
+}
+
+.text1,
+.text2 {
+    margin-top: 30px;
+}
+
+.cat1 {
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 50px;
+}
+
+.cat2 {
+    border-bottom-left-radius: 50px;
+    border-top-right-radius: 20px;
+}
+
+footer {
+    text-align: center;
+    margin-top: 50px;
+}
